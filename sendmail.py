@@ -20,7 +20,7 @@ import datetime
 import unicodecsv as csv
 
 smtpUser = 'dvsprojectdev@gmail.com'
-smtpPass = 'singstatdvs123'
+smtpPass = ''
 
 toAdd = 'dvsprojectdev@gmail.com'
 fromAdd = smtpUser
