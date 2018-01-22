@@ -21,8 +21,8 @@ d2 = datetime.date.today()
 diff = d2-d1
 
 if diff.days % 2 == 0:
-    import pipelinetde
     print "Start Data Extraction!!"
+    import pipelinetde
 else:
     print "Not running script today."
 
